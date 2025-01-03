@@ -321,6 +321,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
+#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5380.png" group-title="Музыкальные",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DO0zyKo.png" group-title="Музыкальные",PMC TV
