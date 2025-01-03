@@ -429,7 +429,7 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
 https://s3.merlive.am/davinchi/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/tpLO7Ja.png" group-title="Познавательные",Travel XP
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
