@@ -343,7 +343,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2 TV
 https://s3.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
 http://213.226.137.140:81/tl/l108/mpegts
