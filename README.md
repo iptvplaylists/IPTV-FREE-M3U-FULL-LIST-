@@ -289,7 +289,7 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="6625" tvg-logo="https://i.imgur.com/b4xN7k3.png" group-title="Музыкальные",Dance Hits 80s
+#EXTINF:-1 tvg-id="6625" tvg-logo="https://i.imgur.com/9rRbO4E.png" group-title="Музыкальные",Dance Hits 80s
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 int
 https://kino-1.catcast.tv/content/37745/index.m3u8
