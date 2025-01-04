@@ -351,11 +351,11 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ODb2vHt.png" group-title="Музыкальные",Muzzik TIKTAK
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik MOBA
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/J8O2Wv0.png" group-title="Музыкальные",Muzzik MOBA
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik FLASHBACK
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ZQwrb9K.png" group-title="Музыкальные",Muzzik FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik ELECTRO
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ZsnDfOU.png" group-title="Музыкальные",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/eQQb1xF.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
