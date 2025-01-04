@@ -345,6 +345,16 @@ https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Reload TV
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/eQQb1xF.png" group-title="Музыкальные",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/883tY0N.png" group-title="Музыкальные",POP STAR
