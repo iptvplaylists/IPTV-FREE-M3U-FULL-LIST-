@@ -293,6 +293,8 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
+#EXTINF:-1 tvg-id="6625" tvg-logo="https://i.imgur.com/9rRbO4E.png" group-title="Музыкальные",iHeart 80s HD
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="https://i.imgur.com/9rRbO4E.png" group-title="Музыкальные",Dance Hits 80s
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 int
