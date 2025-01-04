@@ -347,6 +347,8 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/883tY0N.png" group-title="Музыкальные",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/JmyjBTl.png" group-title="Музыкальные",Muzzik
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/l1KHinD.png" group-title="Музыкальные",Muzzik SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ODb2vHt.png" group-title="Музыкальные",Muzzik TIKTAK
