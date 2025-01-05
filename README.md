@@ -283,6 +283,8 @@ http://ott-cdn.ucom.am/s59/index.m3u8
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lEz9ur.png" group-title="Музыкальные",Magic TV
+https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCNpgeF.png" group-title="Музыкальные",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w71207484.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
