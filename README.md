@@ -245,43 +245,43 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Мультфильмы",Gagsnetwork
+#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Детский",Gagsnetwork
 https://s3.merlive.am/gagsnetwork/index.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Мультфильмы",Мистер Бин 
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин 
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Мультфильмы",Чип и Дейл 
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Мультфильмы",Ералаш
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Мультфильмы",В гостях у сказки
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Детский",В гостях у сказки
 https://s1.merlive.am/vgostyaxuskazki/index.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Мультфильмы",2x2
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Детский",2x2
 https://s1.merlive.am/2x2tv/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Мультфильмы",Nicktoons HD
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Мультфильмы",Cartoon network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon network
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Мультфильмы",Детский мир
+#EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Детский",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Мультфильмы",Рыжий
+#EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Детский",Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icMGRl0.png" group-title="Мультфильмы",Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icMGRl0.png" group-title="Детский",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Мультфильмы",Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Детский",Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Мультфильмы",СТС Kids
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Детский",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://epg.one/img/1332.png" group-title="Мультфильмы",Мульт HD
+#EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://epg.one/img/1332.png" group-title="Детский",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Мультфильмы",Карусель
+#EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Мультфильмы",Карусель HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель HD
 http://185.23.80.28:8080/Karusel_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.one/img/555.png" group-title="Мультфильмы",Tiji
+#EXTINF:-1 tvg-logo="http://epg.one/img/555.png" group-title="Детский",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Мультфильмы",Ani
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Мультфильмы",Cartoonito HD
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCNpgeF.png" group-title="Музыкальные",Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w71207484.m3u8
