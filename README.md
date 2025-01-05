@@ -247,6 +247,9 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
+
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Мультфильмы",Мистер Бин 
+https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Мультфильмы",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Мультфильмы",Ералаш
