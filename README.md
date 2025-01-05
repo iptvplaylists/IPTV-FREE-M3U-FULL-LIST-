@@ -399,6 +399,8 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" tvg-logo="http://epg.one/img/575.png" group-title="Музыкальные",Mezzo
 https://s1.merlive.am/Mezzo/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/415.png" group-title="Познавательные",HDL
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 2.0
