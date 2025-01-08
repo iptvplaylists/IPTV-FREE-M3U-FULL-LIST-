@@ -183,11 +183,11 @@ http://88.218.242.237:8000/play/a00x
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bLoiGgq.png" group-title="Кинозалы",Film TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsbdnIm.png" group-title="Кинозалы",Film TV 1
 http://hls.goodgame.ru/hls/208133.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XfYWDRf.png" group-title="Кинозалы",Film TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfqvV25.png" group-title="Кинозалы",Film TV 2
 http://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vAwzCxg.png" group-title="Кинозалы",Film TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx8oLO3.png" group-title="Кинозалы",Film TV 3
 https://hls.goodgame.ru/hls/206510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XojZjjO.png" group-title="Кинозалы",Всё ТВ
 http://hls.goodgame.ru/hls/153640.m3u8
