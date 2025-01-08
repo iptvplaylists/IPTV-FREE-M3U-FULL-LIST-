@@ -211,6 +211,8 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGGcmd4.png" group-title="Кинозалы",КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZAMVzt.png" group-title="Кинозалы",КиноСезон
+https://hls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLYfB7u.png" group-title="Кинозалы",Series TV
 https://hls.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
