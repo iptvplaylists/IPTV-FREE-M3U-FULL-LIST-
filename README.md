@@ -203,6 +203,8 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета 
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPsF1eW.png" group-title="Кинозалы",Сити Эдем ТВ
+https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpqoaTY.png" group-title="Кинозалы",КиноКлассика
