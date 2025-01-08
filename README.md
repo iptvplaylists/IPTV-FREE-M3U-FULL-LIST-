@@ -191,7 +191,7 @@ http://hls.goodgame.ru/hls/163253.m3u8
 https://hls.goodgame.ru/hls/206510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XojZjjO.png" group-title="Кинозалы",Всё ТВ
 http://hls.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",ВосходТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4ofonc.png" group-title="Кинозалы",Восход ТВ
 https://hls.goodgame.ru/manifest/202997_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9gPccH.png" group-title="Кинозалы",Fantastic Mystic
 https://hls.goodgame.ru/hls/187741.m3u8
