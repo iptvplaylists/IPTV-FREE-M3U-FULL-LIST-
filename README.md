@@ -71,6 +71,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3 HD
 http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2538.png" group-title="Общероссийские",Беларусь 1 HD
@@ -217,8 +219,6 @@ https://hls.goodgame.ru/hls/163253.m3u8
 https://hls.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Кинозалы",СМОТРИМ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
