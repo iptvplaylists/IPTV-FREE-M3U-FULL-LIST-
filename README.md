@@ -201,15 +201,15 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино детектив
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино классика
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpqoaTY.png" group-title="Кинозалы",КиноКлассика
 https://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино экшн
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAb8s24.png" group-title="Кинозалы",КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино мистика
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbKht4U.png" group-title="Кинозалы",КиноМистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино комедия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGGcmd4.png" group-title="Кинозалы",КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Series TV
 https://hls.goodgame.ru/hls/186021.m3u8
