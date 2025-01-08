@@ -179,9 +179,9 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 http://s1.merlive.am:80/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино",VHS-ка HD
 http://88.218.242.237:8000/play/a00x
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",1Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",2Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Film TV 1
 http://hls.goodgame.ru/hls/208133.m3u8
@@ -199,7 +199,7 @@ https://hls.goodgame.ru/hls/187741.m3u8
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Фантастика HD
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Видеокассета
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета 
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
