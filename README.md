@@ -638,6 +638,6 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://epg.one/img/2670.png" group-title="Зарубежные",12 Channel IL
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1732977596~acl=%2f*~data=hdntl~hmac=107393c6756aa2b354a7bd5f7921a630b22a85308d0f38cacc4d2be7c75019f6/profileManifest.m3u8?_uid=e222740e-9ad5-4b3b-9d9e-2bba7591ece3&rK=a2&_did=ceac49885fc164cc10012ab2d9bb0f28de7be35f
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="http://epg.one/img/2671.png" group-title="Зарубежные",13 Channel IL
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/0/profileManifest.m3u8
 #EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mYRoPWW.png" group-title="Зарубежные",14 Channel IL
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
