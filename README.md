@@ -397,7 +397,8 @@ https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="xite-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/3sJZiV5.png" group-title="Музыкальные",XITE
 https://xite-samsung-de.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA Russia HD
-https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",Beat HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="reload-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/FfK10bE.png" group-title="Музыкальные",Reload TV
