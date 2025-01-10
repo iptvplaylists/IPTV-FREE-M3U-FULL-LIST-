@@ -73,8 +73,6 @@ http://stream01.vnet.am/Channel_121/mono.m3u8
 http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
 https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1789650572.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2538.png" group-title="Общероссийские",Беларусь 1 HD
@@ -238,7 +236,7 @@ https://hls.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Alpha Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="Кинозалы",Alpha Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/205072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Alpha Anime
@@ -268,6 +266,8 @@ https://hls.goodgame.ru/hls/206513.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Эфира net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/181039.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
 https://irylek.ct8.pl/stream/tvpinfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyCGGmG.png" group-title="Новости",BBC NEWS
