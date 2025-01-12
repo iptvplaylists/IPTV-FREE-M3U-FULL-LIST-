@@ -500,7 +500,7 @@ http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
-https://s1.merlive.am/365dnei/index.m3u8
+https://s3.merlive.am/365dnei/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
