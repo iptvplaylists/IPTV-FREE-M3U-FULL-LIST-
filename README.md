@@ -185,15 +185,30 @@ http://88.218.242.237:8000/play/a00x
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QsbdnIm.png" group-title="Кинозалы",Film TV 1
+#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/208133.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pfqvV25.png" group-title="Кинозалы",Film TV 2
+https://hls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx8oLO3.png" group-title="Кинозалы",Film TV 3
+http://hls.goodgame.ru/hls/176975.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/206510.m3u8
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="Кинозалы",VKTV CINEMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/173945.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="Кинозалы",Alpha Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hls.goodgame.ru/hls/205072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ily2wsg.png" group-title="Кинозалы",Fks Films HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/209426.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="Кинозалы",Katastroff HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208789.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zntg4Xq.png" group-title="Кинозалы",CINEMAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/212494.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XojZjjO.png" group-title="Кинозалы",Всё ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://hls.goodgame.ru/hls/153640.m3u8
@@ -207,11 +222,6 @@ https://hls.goodgame.ru/hls/187741.m3u8
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHPUsJx.png" group-title="Кинозалы",IPTV PLAY
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета 
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPsF1eW.png" group-title="Кинозалы",Сити Эдем ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://v2.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://autopilot.catcast.tv/content/41327/index.m3u8
@@ -230,12 +240,6 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLYfB7u.png" group-title="Кинозалы",Series TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUS40F3.png" group-title="Кинозалы",Akudji TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="Кинозалы",Alpha Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-http://hls.goodgame.ru/hls/205072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Fantom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/204722.m3u8
