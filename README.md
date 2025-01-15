@@ -206,7 +206,7 @@ https://hls.goodgame.ru/hls/209426.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="Кинозалы",Katastroff HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/208789.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zntg4Xq.png" group-title="Кинозалы",CINEMAN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP9jh0b.png" group-title="Кинозалы",ALEXFILMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/212494.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XojZjjO.png" group-title="Кинозалы",Всё ТВ
