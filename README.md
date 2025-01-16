@@ -492,9 +492,9 @@ https://s3.merlive.am/365dnei/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
-http://s5.merlive.am:80/dikayaoxota/index.m3u8
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
-http://s1.merlive.am:80/dikayaoxota/index.m3u8
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
