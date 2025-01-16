@@ -486,13 +486,13 @@ http://88.218.242.237:8000/play/a00k
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",TERRA HD
 http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
-http://s3.merlive.am/rtghd/index.m3u8
+http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
 https://s3.merlive.am/365dnei/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
-http://stream01.vnet.am/Channel_126/mono.m3u8
+http://s1.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
