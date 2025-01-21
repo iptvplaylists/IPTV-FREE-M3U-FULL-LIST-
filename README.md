@@ -540,7 +540,7 @@ https://tivi191.ozelip.com:3873/stream/play.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.one/img/4313.png" group-title="Спортивные",Eurosport 2 HD
-http://s1.merlive.am/eurosport2/index.m3u8
+http://178.219.128.68:64889/EURO2HD
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3792.png" group-title="Спортивные",FightBox
