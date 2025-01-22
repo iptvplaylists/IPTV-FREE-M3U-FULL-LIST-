@@ -161,8 +161,6 @@ http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
 http://s1.merlive.am:80/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/nkSUoYw.png" group-title="Кино",Star Cinema
 http://s1.merlive.am:80/starsinema/index.m3u8
-#EXTINF:-1 tvg-id="romance" tvg-logo="http://epg.one/img/9179.png" group-title="Кино",Romance HD
-http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://epg.one/img/401.png" group-title="Кино",Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
