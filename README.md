@@ -410,8 +410,6 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://stream01.vnet.am/ShansonTv/index.m3u8
-#EXTINF:-1 tvg-id="mezzo" tvg-logo="http://epg.one/img/575.png" group-title="Музыкальные",Mezzo
-https://s1.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные",History HD
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
