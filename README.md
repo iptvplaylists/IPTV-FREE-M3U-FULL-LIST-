@@ -83,8 +83,6 @@ https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w4860637
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="gags-network" tvg-logo="https://i.imgur.com/OqKb0jy.png" group-title="Общероссийские",Вопросы и ответы
-http://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/783.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://epg.one/img/1620.png" group-title="Кино",Русская комедия
@@ -179,8 +177,6 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1395.png" group-title="Кино",Bollywood HD
 http://s1.merlive.am:80/Bollywood/index.m3u8
-#EXTINF:-1 tvg-id="vhs-ка" tvg-logo="http://epg.one/img/9065.png" group-title="Кино",VHS-ка HD
-http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
