@@ -220,8 +220,6 @@ https://hls.goodgame.ru/manifest/202997_master.m3u8
 https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="Кинозалы",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MHPUsJx.png" group-title="Кинозалы",IPTV PLAY
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9iwuS2S.png" group-title="Кинозалы",КиноДетектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://autopilot.catcast.tv/content/41327/index.m3u8
