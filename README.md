@@ -89,8 +89,6 @@ http://s1.merlive.am:80/Nostalgia/index.m3u8
 https://s1.merlive.am/Komedia/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://epg.one/img/1570.png" group-title="Кино",Русский детектив
 https://s3.merlive.am/ruskidetektiv/index.m3u8
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://epg.one/img/53.png" group-title="Кино",Русский Иллюзион
-http://86.57.178.105:10823
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="http://epg.one/img/935.png" group-title="Кино",Black
 http://s3.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-logo="http://epg.one/img/311.png" group-title="Кино",Red HD
@@ -109,8 +107,6 @@ http://s1.merlive.am:80/eurokino/index.m3u8
 http://31.184.197.124/KinopokazHD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/821.png" group-title="Кино",Кинокомедия HD
 http://s3.merlive.am/komedia/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/462.png" group-title="Кино",Киносвидание
-http://2.57.217.197:8080/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD
 http://s3.merlive.am/kinoxithd/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="http://epg.one/img/987.png" group-title="Кино",Киносемья HD
@@ -125,8 +121,6 @@ http://s3.merlive.am/nashenovoekino/index.m3u8
 https://s3.merlive.am/iconcerthd/index.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-logo="http://epg.one/img/798.png" group-title="Кино",Индийское кино
 https://s1.merlive.am/Indiskoekino/index.m3u8
-#EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-logo="http://epg.one/img/2493.png" group-title="Кино",Киноужас
-http://s1.merlive.am:80/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
@@ -135,12 +129,6 @@ http://s3.merlive.am/kinotvhd/index.m3u8
 http://s3.merlive.am/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="http://epg.one/img/125.png" group-title="Кино",viju TV1000 Action
 http://s3.merlive.am/tv1000action/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/267.png" group-title="Кино",viju TV1000 Русское
-http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-logo="http://epg.one/img/1012.png" group-title="Кино",viju+ Megahit HD
-http://2.57.217.197:8080/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-logo="http://epg.one/img/1011.png" group-title="Кино",viju+ Comedy HD
-http://2.57.217.197:8080/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-logo="http://epg.one/img/2838.png" group-title="Кино",viju+ Serial HD
 https://s3.merlive.am/vipserialhd/index.m3u8
 #EXTINF:-1 tvg-id="amedia1-hd" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
