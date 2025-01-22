@@ -240,21 +240,6 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLYfB7u.png" group-title="Кинозалы",Series TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Fantom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/204722.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",FAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Futurama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/199417.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Мультики и сказки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuwNU2w.png" group-title="Кинозалы",Кино и сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/206513.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeWpktR.png" group-title="Новости",TVP Info HD
@@ -553,14 +538,8 @@ http://s3.merlive.am/avto24/index.m3u8
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/ju3Fdpx.png" group-title="Спортивные",Setanta Sports 1 HD
-http://194.26.229.213/TUDN_Setanta-Sports-1/index.m3u8?token=Panda
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/3ps3uSt.png" group-title="Спортивные",Setanta Sports 2 HD
-http://194.26.229.213/TUDN_Setanta-Sports-2/index.m3u8?token=Panda
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 2 HD
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 3 HD
