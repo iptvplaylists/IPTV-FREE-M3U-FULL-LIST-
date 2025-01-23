@@ -61,8 +61,6 @@ http://185.23.80.28:8080/Domashnij_HD/index.m3u8?token=test
 http://s1.merlive.am:80/Pyatnica/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2765.png" group-title="Общероссийские",Пятница! HD
 http://185.23.80.28:8080/Pyatnica_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="super-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
