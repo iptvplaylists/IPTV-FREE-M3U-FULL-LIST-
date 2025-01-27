@@ -439,7 +439,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
-http://212.102.60.231/HGTV/index.m3u8
+http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные",Big Planet HD
@@ -447,7 +447,7 @@ http://88.218.242.237:8000/play/a00k
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",TERRA HD
 http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
-http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
+http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
 https://s3.merlive.am/365dnei/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
