@@ -83,6 +83,8 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/783.png" group-title="Общероссийские",Ностальгия
 http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/2451.png" group-title="Общероссийские",Вопросы и ответы
+http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://epg.one/img/1620.png" group-title="Кино",Русская комедия
 https://s1.merlive.am/Komedia/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://epg.one/img/1570.png" group-title="Кино",Русский детектив
@@ -408,7 +410,7 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://stream01.vnet.am/ShansonTv/index.m3u8
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/575.png" group-title="Музыкальные",Mezzo
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img/575.png" group-title="Музыкальные",Mezzo HD
 http://213.226.137.140:81/tl/l56/mpegts
 #EXTINF:-1 tvg-logo="http://epg.one/img/1394.png" group-title="Познавательные",History HD
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
