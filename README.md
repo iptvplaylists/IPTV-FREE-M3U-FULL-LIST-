@@ -510,12 +510,14 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="Auto24" tvg-logo="https://i.imgur.com/LP8OMKh.png" group-title="Спортивные",Авто 24
 http://s3.merlive.am/avto24/index.m3u8
-#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" timeshift="14" catchup-days="14" catchup-type="flussonic" group-title="Спортивные",Авто Плюс
+#EXTINF:-1 tvg-id="avto-plus" tvg-logo="https://i.imgur.com/HU7SaRd.png" group-title="Спортивные",Авто Плюс
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 2 HD
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/1042.png" group-title="Спортивные",Матч! Футбол 3 HD
