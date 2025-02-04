@@ -518,9 +518,9 @@ http://s3.merlive.am/avto24/index.m3u8
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",Sports 1 HD
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/7517.png" group-title="Спортивные",Setanta Sports 1 HD
 http://live.admuspeh.my/8565/index.m3u8?token=Q8XZc6qG6eterMau
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",Sports 2 HD
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2363.png" group-title="Спортивные",Setanta Sports 2 HD
 http://live.admuspeh.my/8676/index.m3u8?token=Q8XZc6qG6eterMau
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
