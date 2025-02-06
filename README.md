@@ -105,8 +105,6 @@ http://s1.merlive.am:80/kineko/index.m3u8
 http://s1.merlive.am:80/eurokino/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="http://epg.one/img/2834.png" group-title="Кино",Кинопоказ HD
 http://31.184.197.124/KinopokazHD/mono.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://i.imgur.com/5HPjvj3.png" group-title="Кино",4ever Cinema HD
-https://dl.dropbox.com/s/qqaxqpqmaglfvky/AnonymousTV.m3u 
 #EXTINF:-1 tvg-logo="http://epg.one/img/821.png" group-title="Кино",Кинокомедия HD
 http://s3.merlive.am/komedia/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD
