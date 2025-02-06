@@ -51,12 +51,10 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2540.png" group-title="Общероссийские",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
-http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/783.png" group-title="Общероссийские",Ностальгия
-http://s1.merlive.am:80/Nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
+http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="http://epg.one/img/2451.png" group-title="Общероссийские",Вопросы и ответы
 http://flu.ttk.mx:90/Voprosy_i_otvety/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="http://epg.one/img/2834.png" group-title="Кино",Кинопоказ HD
