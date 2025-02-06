@@ -174,22 +174,12 @@ https://clck.ru/3F6ZUK
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
-#EXTINF:-1 tvg-id="gags-network" tvg-logo="http://epg.one/img/3551.png" group-title="Детский",Gagsnetwork
-https://s3.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин 
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="http://epg.one/img/2027.png" group-title="Детский",В гостях у сказки
-https://s1.merlive.am/vgostyaxuskazki/index.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/gOfbuWJ.png" group-title="Детский",2x2
-https://s1.merlive.am/2x2tv/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon network
-http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Детский",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Детский",Рыжий
@@ -304,16 +294,10 @@ https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2412.png" group-title="Музыкальные",O!2 TV
-https://s3.merlive.am/o2tv/index.m3u8
-#EXTINF:-1 tvg-id="muz-tv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МузТВ
-http://s1.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ HD
 http://185.23.80.28:8080/MUZTV_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="http://epg.one/img/2277.png" group-title="Музыкальные",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-logo="http://epg.one/img/165.png" group-title="Музыкальные",Жара TV
-https://s3.merlive.am/jaratv/index.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",ТНТ MUSIC
 http://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV RUSSIA HD
