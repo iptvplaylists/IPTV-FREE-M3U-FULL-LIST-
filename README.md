@@ -308,10 +308,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://epg.one/img/681.png" group-title="Музыкальные",Europa Plus TV
-http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="http://epg.one/img/715.png" group-title="Музыкальные",Музыка первого
-http://s3.merlive.am/roos-muzika1/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
