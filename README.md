@@ -352,8 +352,6 @@ http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
 http://2.57.217.197:8080/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные",Big Planet HD
 http://88.218.242.237:8000/play/a00k
-#EXTINF:-1 tvg-id="terra-ru" tvg-logo="http://epg.one/img/7632.png" group-title="Познавательные",TERRA HD
-http://s3.merlive.am:80/Terrahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://s3.merlive.am/rtghd/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
@@ -422,10 +420,6 @@ http://s3.merlive.am/avto24/index.m3u8
 http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2055.png" group-title="Спортивные",viju+ Sport
 http://flu.ttk.mx:9090/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/7517.png" group-title="Спортивные",Setanta Sports 1 HD
-http://live.admuspeh.my/8565/index.m3u8?token=Q8XZc6qG6eterMau
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.one/img/2363.png" group-title="Спортивные",Setanta Sports 2 HD
-http://live.admuspeh.my/8676/index.m3u8?token=Q8XZc6qG6eterMau
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2051.png" group-title="Спортивные",Матч! HD
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://epg.one/img/2044.png" group-title="Спортивные",Матч! Футбол 1 HD
