@@ -326,18 +326,12 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://epg.one/img/2508.png" group-title="Познавательные",Глазами туриста HD
-http://s3.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="http://epg.one/img/1035.png" group-title="Познавательные",Travel+Adventure HD
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные",Приключения HD
 http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="http://epg.one/img/55.png" group-title="Познавательные",Океан ТВ
-http://s1.merlive.am:80/oceantv/index.m3u8
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-logo="http://epg.one/img/2418.png" group-title="Познавательные",Galaxy
-https://s3.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="tlc-blk" tvg-logo="https://i.imgur.com/eCXHL6H.png" group-title="Познавательные",TLC
@@ -348,40 +342,20 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2377.png" group-title="Познавательные",HGTV HD
 http://213.226.137.140:81/tl/l1053/tracks-v1a2/mpegts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HtTBZLF.png" group-title="Познавательные",DocuBox HD
-http://2.57.217.197:8080/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="tlc-blk" tvg-logo="http://epg.one/img/7623.png" group-title="Познавательные",Big Planet HD
-http://88.218.242.237:8000/play/a00k
-#EXTINF:-1 tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
-http://s3.merlive.am/rtghd/index.m3u8
-#EXTINF:-1 tvg-id="365-dnej" tvg-logo="http://epg.one/img/2423.png" group-title="Познавательные",365 дней ТВ
-https://s3.merlive.am/365dnei/index.m3u8
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6GB2Y92.png" group-title="Познавательные",Дикая Охота HD
-http://s1.merlive.am:80/dikayaoxota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zOI6QgY.png" group-title="Познавательные",Da Vinci
-https://s3.merlive.am/davinchi/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="http://epg.one/img/2495.png" group-title="Познавательные",Живая природа HD
-http://s3.merlive.am/jivayaprirodahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="http://epg.one/img/765.png" group-title="Познавательные",viju Nature
-http://s1.merlive.am:80/vijunature/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="http://epg.one/img/2432.png" group-title="Познавательные",Живая планета
-https://s3.merlive.am/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-logo="http://epg.one/img/367.png" group-title="Познавательные",Зоопарк
-http://s3.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
@@ -392,10 +366,6 @@ http://stream02.vnet.am/NationalGeographic/index.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery Channel HD
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="http://epg.one/img/2012.png" group-title="Познавательные",viju+ Planet HD
-http://s1.merlive.am:80/vijuplanet/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="http://epg.one/img/521.png" group-title="Познавательные",viju Explore
-http://s3.merlive.am/viasatexplorer/index.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
