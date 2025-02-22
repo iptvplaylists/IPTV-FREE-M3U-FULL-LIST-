@@ -91,6 +91,9 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://ix.goodgame.ru/hls/206513.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/157239.m3u8
