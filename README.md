@@ -234,9 +234,9 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/156.png" group-title="Музыкальные",MTV 80s
-http://213.226.137.140:81/tl/l108/mpegts
+http://146.59.85.40:89/MTV80s/mpegts
 #EXTINF:-1 tvg-logo="http://epg.one/img/2235.png" group-title="Музыкальные",MTV 90s
-http://213.226.137.140:81/tl/l109/mpegts
+http://146.59.85.40:89/MTV90s/mpegts
 #EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://epg.one/img/4653.png" group-title="Музыкальные",Kronehit HD
