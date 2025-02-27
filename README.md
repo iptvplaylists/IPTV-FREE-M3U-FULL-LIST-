@@ -67,6 +67,8 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
+http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино",Amedia 2
 http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
