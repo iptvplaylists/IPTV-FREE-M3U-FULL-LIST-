@@ -17,7 +17,7 @@ http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="perec" tvg-logo="http://epg.one/img/5651.png" group-title="Общероссийские",Перец
