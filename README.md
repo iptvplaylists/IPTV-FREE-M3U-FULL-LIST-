@@ -442,10 +442,10 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Зарубежные",Az TV HD AZ
 https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/9144.png" group-title="Зарубежные",Baku TV AZ
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 tvg-id="cbc-hd-az" tvg-logo="http://epg.one/img/2158.png" group-title="Зарубежные",CBC TV AZ
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
+#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/2636.png" group-title="Зарубежные",CBC Sport AZ
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxjaMLk.png" group-title="Зарубежные",Adjara TV GE
 https://dvrfl05.tulix.tv/gin-adjara/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAyOjQ2OjIzIFBNJmhhc2hfdmFsdWU9NWlHYmNTNmdTR2JicDhZUVFUamdaUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTEw
 #EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
