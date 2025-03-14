@@ -429,6 +429,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="Зарубежные",ZDF DE
 https://s6.hopslan.com/zdfX/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3113.png" group-title="Зарубежные",RTL DE
+https://s6.hopslan.com/rtlX1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
