@@ -427,7 +427,7 @@ https://irylek.ct8.pl/stream/tvphistoria
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR DE
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",ZDF DE
+#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="Зарубежные",ZDF DE
 https://s6.hopslan.com/zdfX/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
